@@ -13,14 +13,8 @@ class script(object):
     
     CAPTION = """<b> {file_name}
 
-💠𝐉𝐨𝐢𝐧 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐁𝐚𝐜𝐤𝐮𝐩 𝐂𝐡𝐚𝐧𝐧𝐞𝐥👇
-🔻https://t.me/+MMIqcrxfXY1lZGY1
-
-✅𝐍𝐞𝐰 𝐋𝐚𝐭𝐞𝐬𝐭 𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞 𝐅𝐨𝐫⬇️
- Subscribe My 📱 YouTube Channel 
-https://youtube.com/@filmyinsaan_yt?si=zcgiVJrlwpJDO3qg
-
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Movieupdatewithak01)</b>""" 
+⚡Join BackUp Channel 👇👇
+https://t.me/+tfMotF_iMvZmZDFl
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
