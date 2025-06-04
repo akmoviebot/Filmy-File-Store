@@ -11,10 +11,13 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b> {file_name}
+💠Join Official Backup Channel👇
+🔻https://t.me/+MMIqcrxfXY1lZGY1
 
-⚙️ sɪᴢᴇ : {file_size}
-
+✅New Latest Movies Update For ⬇️
+ Subscribe My 📱 YouTube Channel 
+https://youtube.com/@filmyinsaan_yt?si=zcgiVJrlwpJDO3qg
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Movieupdatewithak01)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
