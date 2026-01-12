@@ -14,7 +14,7 @@ class script(object):
     CAPTION = """<b> {file_name}
 
 ⚡Join BackUp Channel 👇👇
-https://t.me/+tfMotF_iMvZmZDFl</b>"""
+https://t.me/+7OEtczYNHl8yOGNl</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -145,3 +145,4 @@ Nᴀᴍᴇ - {}</b>
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
